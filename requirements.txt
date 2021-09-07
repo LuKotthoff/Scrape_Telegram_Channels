@@ -1,0 +1,6 @@
+# List of required packages to run channel_to_csv.py
+telethon
+pillow
+aiohttp
+cryptg
+configparser
